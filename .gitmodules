@@ -1,6 +1,6 @@
 [submodule "tcp"]
 	path = tcp
-	url = git@github.com:simonkorl/rust_tcp_sc_demo.git
+	url = git@github.com:Jamesinit/rust_tcp_sc_demo.git
 [submodule "dtp"]
 	path = dtp
-	url = https://github.com/simonkorl/rust_dtp_sc_demo
+	url = git@github.com:Jamesinit/rust_dtp_sc_demo.git
